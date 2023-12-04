@@ -24,6 +24,9 @@ set laststatus=2
 set list
 set listchars=tab:›\ ,trail:•,extends:#,nbsp:.
 set matchpairs+=<:>
+set matchpairs+=(:)
+set matchpairs+={:}
+set matchpairs+=[:]
 set modelines=0
 set mouse=a
 set nocompatible
